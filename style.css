@@ -1,0 +1,9 @@
+body {
+    background: #333;
+    font-family: sans-serif;
+}
+
+svg {
+    max-height: 100vh;
+    max-width: 80vh;
+}
